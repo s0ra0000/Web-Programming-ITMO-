@@ -26,8 +26,8 @@
         </div>
         <div class="section-left">
             <p>Привет!</p>
-            <span>Алуко Кехинде Джеймс</span>
-            <p>P32301</p>
+            <span>Давааням Баясгалан</span>
+            <p>P3211</p>
             <a href="google.mn"><button type="button" class="git-btn">Github</button></a>
         </div>
         <div class="section-right">
